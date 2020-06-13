@@ -1,0 +1,6 @@
+[submodule "notebooks/notes"]
+	path = notebooks/notes
+	url = https://github.com/ddubson/notes
+[submodule "notebooks/dotnet-cookbook"]
+	path = notebooks/dotnet-cookbook
+	url = https://github.com/ddubson/dotnet-cookbook
