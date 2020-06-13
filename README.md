@@ -1,4 +1,4 @@
-# Notebooks compendium
+# Notebook compendium
 
 Glue repository to fetch all of my notebooks into one place via Git submodules
 
