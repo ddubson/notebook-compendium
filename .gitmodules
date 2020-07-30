@@ -7,3 +7,6 @@
 [submodule "templates/hugo-theme-learn"]
 	path = templates/hugo-theme-learn
 	url = https://github.com/ddubson/hugo-theme-learn
+[submodule "notebooks/cheatsheets"]
+	path = notebooks/cheatsheets
+	url = https://github.com/ddubson/cheatsheets
